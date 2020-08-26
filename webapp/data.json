@@ -1,0 +1,29 @@
+[
+    {
+      "title" : "Optimizing NGXS: Dumb State, Smart Selectors",
+      "presenter": "Mark Whitfeld",
+      "job": "NGXS Contributor and front passionate",
+      "avatar": "https://pbs.twimg.com/profile_images/694511156606664704/NZugbHew.jpg",
+      "description": "",
+      "image": "https://picsum.photos/600",
+      "zoomLink": "http://google.fr"
+    },
+    {
+      "title": "From a basic components library to full-layout component: the evolution of the Criteo Design System",
+      "presenter" : "Jessica Cao",
+      "job": "Front developer and Design System evangelist",
+      "avatar": "https://media-exp1.licdn.com/dms/image/C4D03AQF7PN2YpR4V4A/profile-displayphoto-shrink_200_200/0?e=1599091200&v=beta&t=GQ1RO7heXBIkfOBmiscXuyUIaoaCBX5NJA8FPsovVa0",
+      "description": "",
+      "image": "https://picsum.photos/400",
+      "zoomLink": "http://google.fr"
+    },
+    {
+      "title" : "Do’s ans don’ts with RxJS/Observable",
+      "presenter": "Luiza Cicone",
+      "job": "Front developer and application optimizer",
+      "avatar": "https://ca.slack-edge.com/T029PNC42-UH9M3RP8X-5f4b01126d31-512",
+      "description": "",
+      "image": "https://picsum.photos/500",
+      "zoomLink": "http://google.fr"
+    }
+]
