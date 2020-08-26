@@ -1,6 +1,6 @@
 <mat-toolbar color="primary">
   <div fxLayoutAlign="start center">
-    <img src="../assets/criteo-logo.svg" style="height: 40px">
+    <img src="../webapp/assets/criteo-logo.svg" style="height: 40px">
     <h1>{{ title }}</h1>
   </div>
 </mat-toolbar>
@@ -15,10 +15,10 @@
 
   <p style="text-align: center">Feel free to join the discussion rooms to meet our speakers and ask questions regarding what they presented or simply to chit chat!</p>
 
-    <div class="content" fxLayoutAlign="space-evenly center" fxLayout="row wrap" fxLayoutGap="16px grid">
+    <div class="content" fxLayoutAlign="center center" fxLayout="row wrap" fxLayoutGap="16px grid">
 
-      <div fxFlex="33%" fxFlex.xs="100%" *ngFor="let talk of talks">
-        <mat-card class="example-card">
+      <div fxFlex="30%" fxFlex.xs="100%" *ngFor="let talk of talks">
+        <mat-card>
           <mat-card-header>
             <div mat-card-avatar class="avatar" style="background-image: url('{{talk.avatar}}')"></div>
             <mat-card-title>{{ talk.presenter }}</mat-card-title>
