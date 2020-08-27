@@ -1,5 +1,7 @@
 mat-toolbar {
   justify-content: space-between;
+  background-color: #115f8d;
+  color: white;
 }
 
 .content {

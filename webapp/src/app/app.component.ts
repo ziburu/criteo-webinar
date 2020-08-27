@@ -7,7 +7,7 @@ import * as data from './../../data.json';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent{
-  title = 'Front Development talks';
+  title = 'Front-End Tech Talks';
 
   talks = (data as any).default;
 
