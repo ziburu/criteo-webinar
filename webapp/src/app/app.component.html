@@ -17,12 +17,12 @@
 
     <div class="content" fxLayoutAlign="center top" fxLayout="row wrap" fxLayoutGap="16px grid">
 
-      <div fxFlex="20%" fxFlex.md="50%" fxFlex.lt-md="100%" *ngFor="let talk of talks">
+      <div fxFlex="22%" fxFlex.md="50%" fxFlex.lt-md="100%" *ngFor="let talk of talks">
         <mat-card>
           <mat-card-header>
             <div mat-card-avatar class="avatar" style="background-image: url('{{talk.avatar}}')"></div>
             <mat-card-title>{{ talk.presenter }}</mat-card-title>
-            <mat-card-subtitle style="min-height: 50px">{{ talk.job }}</mat-card-subtitle>
+            <mat-card-subtitle style="min-height: 35px">{{ talk.job }}</mat-card-subtitle>
           </mat-card-header>
           <img mat-card-image src="{{ talk.image }}">
           <mat-card-content>
