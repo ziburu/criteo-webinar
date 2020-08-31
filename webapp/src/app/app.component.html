@@ -15,9 +15,9 @@
 
   <p style="text-align: center">Feel free to join the discussion rooms to meet our speakers and ask questions regarding what they presented or simply to chit chat!</p>
 
-    <div class="content" fxLayoutAlign="center center" fxLayout="row wrap" fxLayoutGap="16px grid">
+    <div class="content" fxLayoutAlign="center top" fxLayout="row wrap" fxLayoutGap="16px grid">
 
-      <div fxFlex="30%" fxFlex.xs="100%" *ngFor="let talk of talks">
+      <div fxFlex="20%" fxFlex.md="50%" fxFlex.lt-md="100%" *ngFor="let talk of talks">
         <mat-card>
           <mat-card-header>
             <div mat-card-avatar class="avatar" style="background-image: url('{{talk.avatar}}')"></div>
