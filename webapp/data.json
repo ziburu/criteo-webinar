@@ -3,25 +3,25 @@
       "title" : "Optimizing NGXS: Simple State, Smart Selectors",
       "presenter": "Mark Whitfeld",
       "job": "Freelance Software Development Consultant",
-      "avatar": "https://pbs.twimg.com/profile_images/694511156606664704/NZugbHew.jpg",
+      "avatar": "../criteo-webinar/assets/mark.jpg",
       "description": "",
-      "image": "../criteo-webinar/assets/ngxs.jpg",
+      "image": "../criteo-webinar/assets/ngxs_thumb.jpg",
       "zoomLink": "https://criteo.zoom.us/j/98337362594?pwd=azhkVkV6Y2RSb2xuRlVyRFp6MUJxdz09"
     },
     {
       "title": "Evolution of the Criteo Design System: from pure CSS to a full-fledged component library",
       "presenter" : "Jessica Cao",
-      "job": "Front developer and Design System evangelist @CRITEO",
-      "avatar": "https://media-exp1.licdn.com/dms/image/C4D03AQF7PN2YpR4V4A/profile-displayphoto-shrink_200_200/0?e=1599091200&v=beta&t=GQ1RO7heXBIkfOBmiscXuyUIaoaCBX5NJA8FPsovVa0",
+      "job": "Staff Software Engineer @CRITEO",
+      "avatar": "../criteo-webinar/assets/jessica.jpg",
       "description": "",
-      "image": "https://picsum.photos/400",
+      "image": "../criteo-webinar/assets/ds_thumb.png",
       "zoomLink": "https://criteo.zoom.us/j/99056220401?pwd=Qi9OTG83Mlg1LzZESlFJYW5vdzdWZz09"
     },
     {
       "title" : "Dos and don’ts with RxJS streams",
       "presenter": "Luiza Cicone",
       "job": "Full-stack software engineer @CRITEO",
-      "avatar": "https://ca.slack-edge.com/T029PNC42-UH9M3RP8X-5f4b01126d31-512",
+      "avatar": "../criteo-webinar/assets/luiza.jpg",
       "description": "",
       "image": "https://picsum.photos/500",
       "zoomLink": "https://criteo.zoom.us/j/99483828954?pwd=WVpHRm83SzM0WTMzTzFLTkwrWmYyZz09"
@@ -32,7 +32,7 @@
       "job": "R&D recuiter & WebApps manager",
       "avatar": "../criteo-webinar/assets/criteo-round.png",
       "description": "",
-      "image": "https://picsum.photos/800",
+      "image": "../criteo-webinar/assets/criteoLabs_thumb.png",
       "zoomLink": "https://criteo.zoom.us/j/92360537501?pwd=NWtJbVlZSThjQjlnOWk1UGJvYWN1dz09"
     }
 ]

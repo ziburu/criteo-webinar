@@ -5,7 +5,9 @@ mat-toolbar {
 }
 
 .content {
-  padding: 16px;
+  padding: 10px;
+  margin-right: 0 !important;
+  margin-left: 16px !important;
 }
 
 .container {
